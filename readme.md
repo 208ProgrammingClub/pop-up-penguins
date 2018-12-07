@@ -2,6 +2,10 @@
 
 ## i. Setting up our environment
 
+This tutorial was designed to be used with Cloud9 an Intelligent Development Editor.  Cloud9 has since been bought out by Amazon and generally requires a paid subscription.  however there are free educational accounts that can be set up. It has been my desire to research free IDE's and revamp some of the IDE tricks and tips listed in this tutorial however the research is not final.
+
+Log into your Cloud9 account (www.cloud9.io).
+
 Before we begin building our game we must first Identify the code language we will be using and setup our environment.  This project is a lesson based on html (Hypertext Markup Language) and CSS (Cascading Style Sheets). 99% of modern day websites you visit use HTML and if it has at least any font styles or colors, with great certainty it is using CSS to tell HTML how to display your code. 
 
 If your workspace does not contain the following files  you will need to create them.  If you already have them then you may skip this step go to Step 2 Open Index.html.
